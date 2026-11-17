@@ -1,4 +1,4 @@
-# A-nziza: ALU Transcript Generator
+# alu_transcript_generator: ALU Transcript Generator
 
 Individual Coding Lab, Introduction to Python Programming and Databases (BSE Year 1, Trimester 2).
 
